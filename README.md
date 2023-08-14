@@ -9,7 +9,7 @@ Was to create a weather application capable of providing information on a city g
 - Submit a city name and receive weather data (City, Temperature, Humidity, Wind)
 
 ### Screenshot
-![Image of the App](calculatrice.png "Calculator image")
+![Image of the App](screenshot-wheather-app.png "Wheather App image")
 
 ## My Process
 ### Built with
